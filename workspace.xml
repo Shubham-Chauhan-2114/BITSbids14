@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5064e7ca-c329-4f95-8fea-2c466374c8f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITSBids-backend/src/main/java/com/artgallery/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/BITSBids-backend/src/main/java/com/artgallery/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITSBids-backend/src/main/java/com/artgallery/dto/ProductAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/BITSBids-backend/src/main/java/com/artgallery/dto/ProductAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITSBids-backend/src/main/java/com/artgallery/model/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/BITSBids-backend/src/main/java/com/artgallery/model/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITSBids-backend/src/main/java/com/artgallery/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/BITSBids-backend/src/main/java/com/artgallery/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITSBids-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/BITSBids-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITSBids-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/BITSBids-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITSBids-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/BITSBids-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITSBids-frontend/src/chat/chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/BITSBids-frontend/src/chat/chat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITSBids-frontend/src/pages/Chat.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/BITSBids-frontend/src/pages/Chat.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITSBids-frontend/src/pages/HomePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/BITSBids-frontend/src/pages/HomePage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITSBids-frontend/src/pages/Product.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/BITSBids-frontend/src/pages/Product.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BITSBids-frontend/src/productComponent/AddProductForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/BITSBids-frontend/src/productComponent/AddProductForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/04a804bad19b40c5a86611ddff29d0be.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/192010d06abb4fa8837d81c712027b1f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3163d4975de94f3d9b00dc39f9c8a9f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/49f2730414c5429f9e20d07ee184189f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/550be69117df4dabbc7aeb4172c3ebdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/6ec15544c9154b1fa357cbd205230c9f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/73d544ba1fcf4c228140f498e560769a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Antenna-gain-dBi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Blue Lab Coat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Downloads - Shortcut.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/White Lab Coat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/a65b416cfa434dbd8cafd787a33ebc60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/a9bbe1bedba046c196dc48931cae7e5a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/acad2c6f0ea044f98036351a47197569.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/b5e38e0ac96040b7bd5b0d28d5c9d36b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ec313f4c257f48f9acbe759fcddd156a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/f8b4c9c6cccf4f469f43a883dec9c0d1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/house.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/plate.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2YX4Kynvg6F5lBtXYd4HOrVeYWa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;test&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.17.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.17.1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/OOPS PROJECT/BITSBids-Test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.2.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\2008s\Desktop\BITSBids-Test\BITSBids-frontend\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5064e7ca-c329-4f95-8fea-2c466374c8f9" name="Changes" comment="" />
+      <created>1700658531174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700658531174</updated>
+      <workItem from="1700658532164" duration="1415000" />
+      <workItem from="1700756453847" duration="12000" />
+      <workItem from="1700843727093" duration="2266000" />
+      <workItem from="1700846028701" duration="10075000" />
+      <workItem from="1700897705957" duration="4459000" />
+      <workItem from="1700902737319" duration="1400000" />
+      <workItem from="1700904983437" duration="164000" />
+      <workItem from="1700906223866" duration="16000" />
+      <workItem from="1700912324016" duration="5281000" />
+      <workItem from="1700942934628" duration="865000" />
+      <workItem from="1700945855599" duration="215000" />
+      <workItem from="1701077250461" duration="343000" />
+      <workItem from="1701079970142" duration="2887000" />
+      <workItem from="1701082971921" duration="1977000" />
+      <workItem from="1701112661442" duration="7091000" />
+      <workItem from="1701151429724" duration="14769000" />
+      <workItem from="1701177391800" duration="7846000" />
+      <workItem from="1701186525455" duration="4377000" />
+      <workItem from="1701260971673" duration="9009000" />
+      <workItem from="1701275288674" duration="144000" />
+      <workItem from="1701275908386" duration="19047000" />
+      <workItem from="1701300300772" duration="611000" />
+      <workItem from="1701335384403" duration="3340000" />
+      <workItem from="1701357757684" duration="35000" />
+      <workItem from="1701419477463" duration="4386000" />
+      <workItem from="1701426504240" duration="27593000" />
+      <workItem from="1701520079601" duration="3391000" />
+      <workItem from="1701531754139" duration="677000" />
+      <workItem from="1702271320246" duration="166000" />
+      <workItem from="1702431851331" duration="713000" />
+      <workItem from="1702547454307" duration="5965000" />
+      <workItem from="1702559415488" duration="2528000" />
+      <workItem from="1702599093446" duration="5000" />
+      <workItem from="1703228747020" duration="374000" />
+      <workItem from="1703244377133" duration="85000" />
+      <workItem from="1711273580688" duration="285000" />
+      <workItem from="1711447059627" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
